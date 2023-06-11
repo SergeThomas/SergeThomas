@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Django and Java**
 
-- 📫 You can reach me via **<a href="https://www.linkedin.com/in/serge-thomas/" target="blank">Repos</a> or Email at 'smughemuzi@gmail.com**
+- 📫 You can reach me via **<a href="https://www.linkedin.com/in/serge-thomas/" target="blank">Linkedin</a> or Email at 'smughemuzi@gmail.com**
 
 - ⚡ Fun fact **Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.... deep**
 
