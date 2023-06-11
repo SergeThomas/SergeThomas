@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serge-Thomas Mughemuzi</h1>
 <h3 align="center">A passionate Java & Python software developer from South Africa</h3>
 
-<p align="left"> <a href="https://twitter.com/@httpserge" target="blank"><img src="https://img.shields.io/twitter/follow/@httpserge?logo=twitter&style=for-the-badge" alt="@httpserge" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@httpserge" target="blank"><img src="https://img.shields.io/twitter/follow/@httpserge?logo=twitter&style=for-the-badge" alt="httpserge" /></a> </p>
 
 - 🔭 I’m currently working on **MVC projects with Razor and Blazor**
 
