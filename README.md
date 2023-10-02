@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django and Slice of Life Anime**
 
-- 📫 You can reach me via **<a href="https://www.linkedin.com/in/serge-thomas/" target="blank">Linkedin</a>
+- 📫 You can reach me via **<a href="https://www.linkedin.com/in/serge-thomas/" target="blank">Linkedin</a>**
 
 - ⚡ Fun fact **I have completed the <em>NFS Most Wanted</em> campaign 10 times**
 
