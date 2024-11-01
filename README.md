@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 [![roadmap.sh](https://roadmap.sh/card/wide/64438668e272577374947734?variant=dark)](https://roadmap.sh)
 -->
+- 🔭 I’m currently working on ...
+<br>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/64438668e272577374947734?variant=dark)](https://roadmap.sh)
