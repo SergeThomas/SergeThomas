@@ -9,12 +9,6 @@ I'm a **Software Developer** passionate about backend development, system design
 - 💾 Databases: Redis, PostgreSQL, SQLite, MySQL  
 - ☁️ Tools: Docker, Kubernetes, AWS, Git, Linux, CI/CD 
 
-📊 **GitHub Stats:**  
-![Serge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeThomas&show_icons=true&theme=radical)  
-
-📈 **Commit Streak:**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SergeThomas&theme=radical)  
-
 🌱 **Currently Learning:**  
 - I'm expanding my backend expertise by diving deeper into:   
 - 📌 PostgreSQL & Redis 
@@ -27,3 +21,6 @@ I'm a **Software Developer** passionate about backend development, system design
 - 📝 [Portfolio](https://sergethomas.github.io/HawtDawg/)  
 
 ---
+
+📈 **Commit Streak:**  
+![GitHub Streak](https://streak-stats.demolab.com/?user=SergeThomas&theme=radical)  
