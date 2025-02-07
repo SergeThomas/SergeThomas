@@ -17,8 +17,8 @@ I'm a **Software Developer** passionate about backend development, system design
 - 📌 AWS & CI/CD
   
 📫 **Let's Connect!**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/serge-thomas/)  
-- 📝 [Portfolio](https://sergethomas.github.io/HawtDawg/)  
+- 💼 <a href="https://www.linkedin.com/in/serge-thomas/" target="_blank">LinkedIn</a>  
+- 📝 <a href="https://sergethomas.github.io/HawtDawg/" target="_blank">Portfolio</a>  
 
 ---
 
