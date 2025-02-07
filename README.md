@@ -1,14 +1,29 @@
-## Hi there 👋
+### Hi there! 👋 I'm Serge 
 
-<!--
-**SergeThomas/SergeThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**  
+I'm a **Software Developer** passionate about backend development, system design, and learning new technologies. I enjoy exploring different frameworks, troubleshooting complex issues, and recently, I've been diving into **Go**.  
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**  
+- 💻 Languages: Python, Go, JavaScript, C# & Java  
+- 🛠️ Frameworks: Gin, Django, FastAPI, ASP.NET, Little React  
+- 💾 Databases: Redis, PostgreSQL, SQLite, MySQL  
+- ☁️ Tools: Docker, Kubernetes, AWS, Git, Linux, CI/CD 
 
+📊 **GitHub Stats:**  
+![Serge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergeThomas&show_icons=true&theme=radical)  
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64438668e272577374947734?variant=dark)](https://roadmap.sh)
--->
-- 🔭 I’m currently working on ...
-<br>
+📈 **Commit Streak:**  
+![GitHub Streak](https://streak-stats.demolab.com/?user=SergeThomas&theme=radical)  
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64438668e272577374947734?variant=dark)](https://roadmap.sh)
+🌱 **Currently Learning:**  
+- I'm expanding my backend expertise by diving deeper into:   
+- 📌 PostgreSQL & Redis 
+- 📌 Gin & gRPC
+- 📌 Docker & Kubernetes 
+- 📌 AWS & CI/CD
+  
+📫 **Let's Connect!**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/serge-thomas/)  
+- 📝 [Portfolio](https://sergethomas.github.io/HawtDawg/)  
+
+---
