@@ -21,6 +21,3 @@ I'm a **Software Developer** passionate about backend development, system design
 - 📝 <a href="https://sergethomas.github.io/HawtDawg/" target="_blank">Portfolio</a>  
 
 ---
-
-📈 **Commit Streak:**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SergeThomas&theme=radical)  
