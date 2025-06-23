@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Serge 
 
 🚀 **About Me:**  
-I'm a **Software Developer** passionate about backend development, system design, and learning new technologies. I enjoy exploring different frameworks, troubleshooting complex issues, and recently, I've been diving into **Go**.  
+I'm a **Software Developer** passionate about backend development, system design, and learning new technologies. I enjoy exploring different frameworks, troubleshooting complex issues (mentally) and honning my C# skills.  
 
 🔧 **Tech Stack:**  
 - 💻 Languages: Python, C#, JavaScript, Go & Java  
